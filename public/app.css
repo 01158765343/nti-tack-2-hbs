@@ -1,0 +1,10 @@
+.img {
+    display: block;
+    width: 200px;
+    height: 100%;
+}
+
+.item {
+    display: flex;
+    background-color: red !important;    
+}
